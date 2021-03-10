@@ -8,7 +8,13 @@ import org.junit.jupiter.api.Test;
 
 import model.Book;
 import service.BookService;
-
+/**
+ * This class checks whether BookService books list is empty using assertTrue
+ * if assertTrue method evaluates true then test method pass otherwise fails 
+ * it has 6 overloaded methods as follows
+ * @author priyankaku
+ *
+ */
 public class AssertTrueDemo {
 
 	@Test
